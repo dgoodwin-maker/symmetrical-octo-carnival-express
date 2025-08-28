@@ -3,11 +3,6 @@
   "version": "1.0.0",
   "main": "app.js",
   "dependencies": {
-<<<<<<< HEAD
-    "express": "^5.1.0",
-    "nodemon": "^3.1.10"
-  }
-=======
     "accepts": "^2.0.0",
     "body-parser": "^2.2.0",
     "bytes": "^3.1.2",
@@ -84,5 +79,4 @@
   "author": "",
   "license": "ISC",
   "description": ""
->>>>>>> 7427095792171ab776c06c2121e059113d8cce70
 }
